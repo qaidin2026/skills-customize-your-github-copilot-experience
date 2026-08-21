@@ -64,6 +64,12 @@
       "title": "Building REST APIs with FastAPI",
       "description": "Building REST APIs with routes, request validation, and CRUD operations using FastAPI.",
       "path": "assignments/fastapi-rest-apis"
+    },
+    {
+      "id": "testing-with-pytest",
+      "title": "Testing Python Programs with pytest",
+      "description": "Writing automated tests for normal behavior, edge cases, exceptions, and regressions with pytest.",
+      "path": "assignments/testing-with-pytest"
     }
   ]
 }
